@@ -1,6 +1,5 @@
 3/7/19 : Phone call with Monica Porter, Staff Attorney at Disability Rights Advocates re: web accessibility and her work on the settlement for bringing web accessibility to blind voters in NY. Gather resources/requirements. 
 
-
 3/8/19 : Phone call with Artie Jordan, VP of Engineering of 2U, an educational technology company, about the importance of web accessibility and how to ensure teams across the company have a holistic mindset of accessibility when building products. 
 
 3/9 - 3/10: Research resources, tutorials on testing tools like Selenium Web Driver and Katalon. 
