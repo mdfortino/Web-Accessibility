@@ -1,0 +1,23 @@
+/* a11y note: WCAG requires "at least 4:5:1" color contrast. 
+resource: https://webaim.org/articles/contrast/  */
+/* the colors chosen and used here pass the requirements
+resource: https://webaim.org/resources/contrastchecker/  */
+
+.App {
+  text-align: left;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.App-header {
+  background-color:#FFFFFF; 
+  color:#5C5CFF; 
+  font-size: 48px;
+  font-weight: bold;
+
+  padding: 5px 0 5px 25px;
+  height: 200px; 
+}
+
+
